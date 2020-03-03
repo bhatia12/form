@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/form/static/css/main.bebf9591.chunk.css",
+    "main.js": "/form/static/js/main.deda2389.chunk.js",
+    "main.js.map": "/form/static/js/main.deda2389.chunk.js.map",
+    "runtime-main.js": "/form/static/js/runtime-main.49394b51.js",
+    "runtime-main.js.map": "/form/static/js/runtime-main.49394b51.js.map",
+    "static/js/2.ffd791e3.chunk.js": "/form/static/js/2.ffd791e3.chunk.js",
+    "static/js/2.ffd791e3.chunk.js.map": "/form/static/js/2.ffd791e3.chunk.js.map",
+    "index.html": "/form/index.html",
+    "precache-manifest.ed12f5a41ed47c92ea7a650cecbb5445.js": "/form/precache-manifest.ed12f5a41ed47c92ea7a650cecbb5445.js",
+    "service-worker.js": "/form/service-worker.js",
+    "static/css/main.bebf9591.chunk.css.map": "/form/static/css/main.bebf9591.chunk.css.map",
+    "static/js/2.ffd791e3.chunk.js.LICENSE.txt": "/form/static/js/2.ffd791e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49394b51.js",
+    "static/js/2.ffd791e3.chunk.js",
+    "static/css/main.bebf9591.chunk.css",
+    "static/js/main.deda2389.chunk.js"
+  ]
+}
